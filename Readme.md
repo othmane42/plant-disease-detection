@@ -6,3 +6,9 @@ this <a href="https://www.kaggle.com/saroz014/plant-diseases">dataset</a> was us
 I used keras and took advantage of transfer learning for faster training (architecture used : <a href="https://keras.io/applications/#vgg16">VGG16</a>).<br>
 
 here is the <a href="https://drive.google.com/file/d/1-K-ZwprY9CjkqD_dtlm9Q0SOTLpH2fh_/view">link</a> to the final checkpoint ( trained weights ). 
+
+# requirements
+```
+pip install -r requirements.txt
+
+```  
